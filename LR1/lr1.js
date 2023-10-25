@@ -1,6 +1,6 @@
-//import * as THREE from 'https://unpkg.com/browse/three@0.156.0/build/three.module.js'
+import * as THREE from 'https://unpkg.com/browse/three@0.156.0/build/three.module.js'
 
-import * as THREE from './build_three.module.js';
+//import * as THREE from './build_three.module.js';
 
 document.addEventListener ("DOMContentLoader", () => {
     const scene = new THREE.Scene();
